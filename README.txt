@@ -9,4 +9,4 @@ Expected input:
 tmpRun.out: Contains output of student designed wordCount program. May invoke 
 with 'cat' in the command prompt. Displayed after using 'make run'.
 
-Makefile: Present for easy user compilation of wordCount.cpp.
+Makefile: Initial code provided by Dr. Finkel, with minor modifications. Present for easy user compilation of wordCount.cpp.
